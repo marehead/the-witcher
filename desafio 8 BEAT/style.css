@@ -1,0 +1,132 @@
+@import url("https://fonts.googleapis.com/css2? family = Hammersmith + One & display = swap");
+@import url("https://fonts.googleapis.com/css2?family=Alata&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alata&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  font-family: "Hammersmith One", sans-serif;
+}
+header {
+  background-color: DarkCyan;
+  width: 100%;
+}
+header li:hover {
+  cursor: pointer;
+  font-weight: bold;
+  color: #fffafa;
+}
+h1 {
+  display: flex;
+  align-items: center;
+  padding-top: 26px;
+  color: white;
+}
+.batimento {
+  display: flex;
+  align-items: center;
+  padding-left: 10%;
+}
+.batimento-img {
+  width: 60%;
+}
+.lista1 li {
+  padding-top: 5px;
+}
+.box-list {
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box-list li {
+  width: 150px;
+  margin: 3vh;
+  padding-left: 2vw;
+}
+.lista2 li {
+  padding-bottom: 5px;
+}
+main {
+  background-color: #ffa185;
+}
+.parterosa {
+  font-size: 15px;
+}
+h2 {
+  font-size: 1em;
+  padding: 2rem;
+  color: White;
+  widht: 7%;
+  height: 4vh;
+}
+.parterosa p {
+  margin: 10px;
+  padding: 4px;
+  padding-bottom: 4%;
+  font-weight: bold;
+}
+.container-image {
+  display: flex;
+  flex-direction: center;
+  padding-left: 5%;
+}
+.container-image img {
+  width: 45vw;
+  margin: 1px;
+  padding: 10px;
+  padding-bottom: 1%;
+}
+.container-img img {
+  width: 45vw;
+  margin: 1px;
+  padding: 10px;
+  padding-bottom: 1px;
+}
+.container-img {
+  display: flex;
+  flex-direction: center;
+  padding-left: 33px;
+}
+.container-main {
+  height: 15vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+}
+.container-main li {
+  padding-right: 2vh;
+}
+main li:hover {
+  cursor: pointer;
+  color: black;
+}
+footer {
+  background-color: DarkCyan;
+  height: 20vh;
+  display: flex;
+  align-items: center;
+}
+.container-footer {
+  padding-left: 9%;
+}
+.icon {
+  width: 25px;
+  margin: 2vh;
+}
+.footer-list {
+  display: flex;
+  padding-left: 35vw;
+  color: white;
+}
+.footer-list li {
+  padding: 10%;
+  font-family: "Alata", sans-serif;
+}
+footer li:hover {
+  cursor: pointer;
+  font-weight: bold;
+  color: #fffafa;
+}

@@ -1,0 +1,82 @@
+* {
+  padding: 0;
+  border: 0;
+  margin: 0;
+  font-family: "montserrat", sans-serif;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
+body {
+  background-image: url(https://cdn-sharing.adobecc.com/content/storage/id/urn:aaid:sc:US:3e5bdfff-8c40-42c0-8fd9-125ed8881d4e;revision=0?component_id=2aa22924-402c-4d35-bcf9-2acd27754d88&api_key=CometServer1&access_token=1642358055_urn%3Aaaid%3Asc%3AUS%3A3e5bdfff-8c40-42c0-8fd9-125ed8881d4e%3Bpublic_a7fa8aa90e2045b1c287e2d7da1e043f215c8eb5);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.person {
+  background-image: url(https://cdn-sharing.adobecc.com/content/storage/id/urn:aaid:sc:US:3e5bdfff-8c40-42c0-8fd9-125ed8881d4e;revision=0?component_id=7a8c854a-a5c6-4f77-bb53-8c7f1154222c&api_key=CometServer1&access_token=1642358055_urn%3Aaaid%3Asc%3AUS%3A3e5bdfff-8c40-42c0-8fd9-125ed8881d4e%3Bpublic_a7fa8aa90e2045b1c287e2d7da1e043f215c8eb5);
+  background-size: 500px;
+  background-repeat: no-repeat;
+  margin-left: 430px;
+
+  width: 700px;
+  height: 630px;
+}
+
+.simbol {
+  margin-left: 179px;
+  margin-top: 15px;
+  width: 54px;
+  height: 96px;
+  display: block;
+}
+
+.project {
+  width: 200px;
+  margin-left: 250px;
+  margin-top: -60px;
+  font-weight: lighter;
+  color: gainsboro;
+}
+
+.project:hover {
+  text-transform: uppercase;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.navegation {
+  display: block;
+  float: right;
+  margin-right: 30px;
+  margin-top: -25px;
+}
+
+li {
+  display: inline-block;
+  padding: 4px 20px;
+  font-weight: lighter;
+  color: gainsboro;
+}
+
+li:hover {
+  text-transform: uppercase;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.kavil {
+  width: 400px;
+  height: 581px;
+  margin-left: 450px;
+}
+
+.thewitcher {
+  width: 300px;
+  height: 100px;
+  margin-top: 300px;
+  margin-left: 100px;
+}
+
+.button {
+  margin-left: 90px;
+}
